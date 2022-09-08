@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate self taught programmer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royshemtov13&label=Profile%20views&color=0e75b6&style=flat" alt="royshemtov13" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=royshemtov13&label=Profile%20views&color=0e75b6&style=flat" alt="royshemtov13" /> </p> -->
 
 - 🔭 I’m currently working on... **🤫🤫**
 
