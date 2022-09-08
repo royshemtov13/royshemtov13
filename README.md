@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **royshemtov13@gmail.com**
 
-- ⚡ Fun fact **I'm a really good Call of Duty Warzone Player. Hit me up for a run *😁😉*
+- ⚡ Fun fact I'm a really good Call of Duty Warzone Player. Hit me up for a run *😁😉*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
