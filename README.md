@@ -5,7 +5,10 @@
 
 - 🔭 I’m currently working on... **🤫🤫**
 
-- 🌱 I’m currently learning ** Doing my AWS Associate Developer Exam, Microservices annd AI tools to use in my workflows. **
+- 🌱 I’m currently working on
+  - Doing my AWS Associate Developer Exam.
+  - Microservices.
+  - AI tools to use in my workflows.
 
 - 📫 How to reach me: **royshemtov13@gmail.com**
 
