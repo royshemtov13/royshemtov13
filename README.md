@@ -15,7 +15,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=royshemtov13&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="royshemtov13" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=royshemtov13&theme=github_dark&hide_border=true" alt="royshemtov13" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royshemtov13&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="royshemtov13" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royshemtov13&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter Notebook" alt="royshemtov13" /></p>
 
 
 
