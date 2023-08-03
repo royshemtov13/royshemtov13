@@ -1,15 +1,18 @@
 <h1 align="center">Hi there, 👋  I'm Roy</h1>
 <h3 align="center">A passionate self taught software developer from 🇮🇱</h3>
 
-
 - 🔭 I’m currently working on... **🤫🤫**
 - 🌱 I’m currently learning
-  - Doing my AWS Associate Developer Exam
   - Microservices
   - AI tools to use in my workflows
   - Always working and learning to improve on my craft
 
 - 📫 How to reach me: **royshemtov13@gmail.com**
+
+## Certifications
+<a href="https://www.credly.com/earner/earned/badge/ab6e7736-9c0f-48a9-9f86-722eddb0a486">
+  <img align="center" style="width: 150px; height: 150px;" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
+</a>
 
 ## Stats
 
