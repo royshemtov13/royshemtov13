@@ -1,12 +1,7 @@
 <h1 align="center">Hi there, 👋  I'm Roy</h1>
-<h3 align="center">A passionate self taught software developer from 🇮🇱</h3>
+<h3 align="center">A passionate Software Engineer from 🇮🇱</h3>
 
 - 🔭 I’m currently working on... **🤫🤫**
-- 🌱 I’m currently learning
-  - Microservices
-  - AI tools to use in my workflows
-  - Always working and learning to improve on my craft
-
 - 📫 How to reach me: **royshemtov13@gmail.com**
 
 ## Certifications
